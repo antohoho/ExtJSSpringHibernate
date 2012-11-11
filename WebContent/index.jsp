@@ -25,5 +25,7 @@
 	</head>
 	<body>	
 		<div id="crud-grid"></div>
+		<br />
+		<div id="panel"></div>
 	</body>
 </html>
